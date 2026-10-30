@@ -67,4 +67,3 @@ Cinematic Arc Reactor Simulations (10 - 14)
 	• Connect a momentary button between digital pin 2 and GND. No external pull-up resistor is required.
 3. Power Management: The code enforces a maximum power draw boundary of 5V, 5000mA via software constraints. Ensure your battery assembly (e.g., LiPo cell with a 5V step-up or USB power bank) can comfortably manage your deployment requirements.
 4. Compile: Flash the sketch directly to your microcontroller via the Arduino IDE.
-W
